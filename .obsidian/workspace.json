@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "84db2aca2b2e46f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4817f76dfb4891d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afe2cecf43ce17c1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "add53ed3d0efc7a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ff90b31c7aea408",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6615be1d5744f310",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba58d68480ae7c33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f7df2a125eb21778",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58ceb4e3bba7c6a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9cefb5cd829f341",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bb5ca6c6bb42f80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13652a86d5561e18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43af071a9430ac40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d427cc0b918d8e9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6615be1d5744f310",
+  "lastOpenFiles": [
+    "Prog. Orientada a Obj",
+    "Estruturas Discretas",
+    "Física"
+  ]
+}
