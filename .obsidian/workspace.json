@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b4817f76dfb4891d",
+        "id": "3b8fc8223a610169",
         "type": "tabs",
         "children": [
           {
-            "id": "afe2cecf43ce17c1",
+            "id": "7d5204b3dc879875",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Estruturas Discretas/sdadsadsd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Estruturas Discretas/sdadsadsd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Estruturas Discretas/sdadsadsd.md"
+              }
             }
           }
         ]
@@ -140,6 +144,8 @@
   },
   "active": "6615be1d5744f310",
   "lastOpenFiles": [
+    "Estruturas Discretas/sdadsadsd.md",
+    "Física/teste no github.md",
     "Prog. Orientada a Obj",
     "Estruturas Discretas",
     "Física"
