@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "af15b378f1c388ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f8d6eb17b7651bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e02cbf89b7a13798",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Estruturas Discretas/Estruturas Discretas.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c825a60c125b672",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9695bb047a718978",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "37457a2935f910ee",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0d6c5aeb9a13dde1",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "abdd8973ab1f45d5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c7d4ef47736e4962",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2628aad8547601b6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Estruturas Discretas/Estruturas Discretas.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d642d9ac04a389cf",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Estruturas Discretas/Estruturas Discretas.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fa430354c035b1eb",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Estruturas Discretas/Estruturas Discretas.pdf"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e02cbf89b7a13798",
+  "lastOpenFiles": [
+    "Física/Fisica.pdf",
+    "Estruturas Discretas/sdadsadsd.md",
+    "Estruturas Discretas/Estruturas Discretas.pdf",
+    "Física",
+    "LICENSE",
+    "Estruturas Discretas",
+    "Física/teste no github.md"
+  ]
+}
