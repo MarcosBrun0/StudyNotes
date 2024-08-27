@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Física/Física - Aulas.pdf"
+                "file": "Estruturas Discretas/Est. Discretas - Aulas.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Física/Física - Aulas.pdf",
+            "file": "Estruturas Discretas/Est. Discretas - Aulas.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Física/Física - Aulas.pdf",
+            "file": "Estruturas Discretas/Est. Discretas - Aulas.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Física/Física - Aulas.pdf"
+            "file": "Estruturas Discretas/Est. Discretas - Aulas.pdf"
           }
         }
       }
@@ -131,8 +131,9 @@
   },
   "active": "e02cbf89b7a13798",
   "lastOpenFiles": [
-    "Física/Fisica - Lista cap 2.pdf",
     "Estruturas Discretas/Estruturas Discretas.pdf",
+    "Física/Física - Aulas.pdf",
+    "Física/Fisica - Lista cap 2.pdf",
     "Física/Fisica.pdf",
     "Estruturas Discretas/sdadsadsd.md",
     "Física",
