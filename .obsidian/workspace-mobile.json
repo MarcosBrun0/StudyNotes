@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Estruturas Discretas/Estruturas Discretas.pdf"
+                "file": "Física/Física - Aulas.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Estruturas Discretas/Estruturas Discretas.pdf",
+            "file": "Física/Física - Aulas.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Estruturas Discretas/Estruturas Discretas.pdf",
+            "file": "Física/Física - Aulas.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Estruturas Discretas/Estruturas Discretas.pdf"
+            "file": "Física/Física - Aulas.pdf"
           }
         }
       }
@@ -129,11 +129,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9695bb047a718978",
+  "active": "e02cbf89b7a13798",
   "lastOpenFiles": [
+    "Física/Fisica - Lista cap 2.pdf",
+    "Estruturas Discretas/Estruturas Discretas.pdf",
     "Física/Fisica.pdf",
     "Estruturas Discretas/sdadsadsd.md",
-    "Estruturas Discretas/Estruturas Discretas.pdf",
     "Física",
     "LICENSE",
     "Estruturas Discretas",
