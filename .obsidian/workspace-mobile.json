@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7f8d6eb17b7651bf",
+        "id": "3f7b2696dfa4b6f0",
         "type": "tabs",
         "children": [
           {
-            "id": "e02cbf89b7a13798",
+            "id": "17c5ca4a5e98842f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Física/Fisica - Lista cap 2.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Física/Fisica - Lista cap 2.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Física/Fisica - Lista cap 2.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Física/Fisica - Lista cap 2.pdf"
-          }
+          "state": {}
         }
       }
     ],
@@ -129,18 +123,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e02cbf89b7a13798",
+  "active": "17c5ca4a5e98842f",
   "lastOpenFiles": [
+    "Física/teste no github.md",
+    "Física/Fisica - Lista cap 2.pdf",
     "Física/Física 1 - Aulas.pdf",
     "Física/Física - Aulas.pdf",
     "Estruturas Discretas/Est. Discretas - Aulas.pdf",
     "Estruturas Discretas/Estruturas Discretas.pdf",
-    "Física/Fisica - Lista cap 2.pdf",
     "Física/Fisica.pdf",
     "Estruturas Discretas/sdadsadsd.md",
     "Física",
     "LICENSE",
-    "Estruturas Discretas",
-    "Física/teste no github.md"
+    "Estruturas Discretas"
   ]
 }
